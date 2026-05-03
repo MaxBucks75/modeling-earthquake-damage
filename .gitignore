@@ -208,3 +208,6 @@ __marimo__/
 
 # Data
 data/*.csv
+
+# modeling-earthquake-damage outputs
+modeling-earthquake-damages/
